@@ -5,3 +5,9 @@
 body{
     background-color: aqua;
 }
+
+.cab{
+    width: 100%;
+    height: 60px;
+    background-color: coral;
+}
